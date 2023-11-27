@@ -1,0 +1,2 @@
+﻿  make: *** No targets.  Stop.
+C:\Program Files\Microsoft Visual Studio\2022\Community1\MSBuild\Microsoft\VC\v170\Microsoft.MakeFile.Targets(45,5): error MSB3073: The command "make" exited with code 2.
